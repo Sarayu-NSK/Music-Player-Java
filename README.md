@@ -8,6 +8,7 @@ The MusicPlayer class extends the JFrame class, serving as the main window of th
 application. It contains various components such as buttons, labels, and a list to display
 the music tracks. The GUI elements are organized using different layout managers to
 ensure an aesthetically pleasing and functional design.
+
 Upon launching the application, the GUI is created and initialized. The user interface
 includes buttons for shuffle, previous track, play, stop, and next track, as well as a select
 song button for adding music files to the playlist. The currently playing label displays
